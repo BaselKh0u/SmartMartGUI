@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMart", "SmartMart\SmartMart.csproj", "{2AF2E450-8BFB-4363-8AC4-D386F84962BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF2E450-8BFB-4363-8AC4-D386F84962BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF2E450-8BFB-4363-8AC4-D386F84962BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF2E450-8BFB-4363-8AC4-D386F84962BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF2E450-8BFB-4363-8AC4-D386F84962BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5753A9C-05A5-4F48-82C6-429866ED5130}
+	EndGlobalSection
+EndGlobal
